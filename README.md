@@ -12,7 +12,7 @@ Before you begin, ensure you have met the following requirements:
 
 To install the project, follow these steps:
 
-1. Clone the repository to your local machine
+1. Clone the repository to your local machine: git clone https://github.com/judymute/hci-final-project.git
 2. Navigate into the project directory: cd hci-final-project
 3. Install the necessary dependencies: npm install
 
