@@ -16,6 +16,8 @@ To install the project, follow these steps:
 2. Navigate into the project directory: cd hci-final-project
 3. Install the necessary dependencies: npm install
 
+(**If a zip folder is given: simply open the folder on IDE and install necessary dependencies and run the project)
+
 
 ## Usage
 
